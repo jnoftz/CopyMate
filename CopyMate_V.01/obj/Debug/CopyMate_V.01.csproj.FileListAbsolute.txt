@@ -1,0 +1,10 @@
+c:\users\noftzjs\Source\Repos\CopyMate_V.01\CopyMate_V.01\bin\Debug\CopyMate_V.01.exe.config
+c:\users\noftzjs\Source\Repos\CopyMate_V.01\CopyMate_V.01\bin\Debug\CopyMate_V.01.exe
+c:\users\noftzjs\Source\Repos\CopyMate_V.01\CopyMate_V.01\bin\Debug\CopyMate_V.01.pdb
+c:\users\noftzjs\Source\Repos\CopyMate_V.01\CopyMate_V.01\obj\Debug\CopyMate_V._01.Form1.resources
+c:\users\noftzjs\Source\Repos\CopyMate_V.01\CopyMate_V.01\obj\Debug\CopyMate_V._01.Properties.Resources.resources
+c:\users\noftzjs\Source\Repos\CopyMate_V.01\CopyMate_V.01\obj\Debug\CopyMate_V.01.csproj.GenerateResource.cache
+c:\users\noftzjs\Source\Repos\CopyMate_V.01\CopyMate_V.01\obj\Debug\CopyMate_V.01.csproj.CoreCompileInputs.cache
+c:\users\noftzjs\Source\Repos\CopyMate_V.01\CopyMate_V.01\obj\Debug\CopyMate_V.01.exe
+c:\users\noftzjs\Source\Repos\CopyMate_V.01\CopyMate_V.01\obj\Debug\CopyMate_V.01.pdb
+C:\Users\noftzjs\Source\Repos\CopyMate_V.01\CopyMate_V.01\obj\Debug\CopyMate_V.01.csprojResolveAssemblyReference.cache
